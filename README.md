@@ -1,6 +1,6 @@
 
 ## Data analysis on cervical cancer in Africa.
-![cervical cancer img](https://github.com/ruth-kitasi/Cervical-cancer-analysis-in-Africa/assets/106556092/1a1a4015-f12e-452a-a6f7-733c35c25ec4)
+![visual report](https://github.com/ruth-kitasi/Cervical-cancer-analysis-in-Africa/assets/106556092/c1af9681-265e-41d7-bdc9-019fc9e8fe89)
 
 
 ## Objectives of the analysis.
